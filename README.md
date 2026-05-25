@@ -6,7 +6,8 @@
 <a href="https://discord.gg/.f0rn3us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".f0rn3us" height="30" width="40" /></a>
 </p>
 
-<img width="1376" height="782" alt="image" src="https://github.com/user-attachments/assets/004a42b3-56e2-470a-b5f6-169f24468361" />
+<img width="1354" height="768" alt="image" src="https://github.com/user-attachments/assets/9bf616ca-4754-470d-a595-bdf93971ec7e" />
+
 
 <h3 align="center">ᴍʏ ʟᴏᴠᴇ ꜰᴏʀ ᴜ ^o^</h3>
 
