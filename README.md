@@ -1,5 +1,7 @@
 
 
+
+
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=missisipping&label=Goodbye,_Feofan&color=BCB380)
@@ -9,6 +11,9 @@
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/a491247e-9c86-43b5-a48e-6de6cc481c80" />
 
 
+<div align="center">
+
+<img width="1280" height="238" alt="image" src="https://github.com/user-attachments/assets/4c6e869d-e40b-4b9b-9b13-bb450c1961ec" />
 
 
 
