@@ -25,13 +25,13 @@
 
 <img width="100%" src="https://github.com/user-attachments/assets/b5ddda34-4256-46de-a1aa-5a504d8174b5"/>
 
+<br><br>
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ypvp7vq4al2mjydctgcihgx4b4&cover_image=true&theme=novatorem&show_offline=false&background_color=ff8e69&interchange=false&profanity=false&hide_remaster=false&bar_color=ffdf69&bar_color_cover=false">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ypvp7vq4al2mjydctgcihgx4b4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ypvp7vq4al2mjydctgcihgx4b4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
   </a>
-</p>>
-  </a>
-
+</p>
+<br><br>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=12&pause=1000&color=E4BF71&background=49C0FF00&center=true&vCenter=true&width=300&height=40&lines=%CB%9A%F0%9D%9C%97%F0%9D%9C%9A%E2%8A%B9%E2%82%8A%E0%B4%92%EF%BE%9F*" />
