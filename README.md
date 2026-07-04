@@ -3,17 +3,14 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=missisipping&label=Goodbye,_Feofan&color=BCB380" />
+<img src="https://komarev.com/ghpvc/?username=missisipping&label=🎐‧₊˚🫧⋆𓆜⊹🩵˖°&color=E4D7F7" />
 
 <br>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=12&pause=1000&color=CCA777&background=49C0FF00&center=true&vCenter=true&width=450&height=45&lines=This+time,+that%E2%80%99s+what+is+truly+is." />
-</a>
-
 <br><br>
 
-<img width="220" src="https://github.com/user-attachments/assets/a491247e-9c86-43b5-a48e-6de6cc481c80"/>
+<img width="242" src="https://github.com/user-attachments/assets/7ab9d66a-5b89-44bb-b21e-284145d7ac6e" />
+
 
 <br><br>
 
@@ -23,7 +20,8 @@
 
 <br><br>
 
-<img width="100%" src="https://github.com/user-attachments/assets/b5ddda34-4256-46de-a1aa-5a504d8174b5"/>
+<img width="1430" height="1180" alt="image" src="https://github.com/user-attachments/assets/7ef8bd05-0dc1-4b3a-a39f-e1abf51443b7" />
+
 
 <br><br>
 <p align="center">
