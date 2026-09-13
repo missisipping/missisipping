@@ -20,4 +20,8 @@ ${\textsf{\color{#937BA1} 𝓸𝓷𝓵𝔂}}$ ${\textsf{\color{#776494} 𝓬𝓸
       </td>
     </tr>
   </table>
-  <sub><a
+  <sub>
+  <br> 
+  <br><br>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ypvp7vq4al2mjydctgcihgx4b4&redirect=true">
